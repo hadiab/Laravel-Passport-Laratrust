@@ -6,7 +6,7 @@
 
 <h2>Packages:</h2>
 <ul>
-  <li>Passport for the authentication version 3.0</li>
-  <li>Laratrust for the authorization version 4.0</li>
-  <li>laracasts generators for generate a pivot tables etc.. version:"dev-master"</li>
+  <li><strong>Passport</strong> for the authentication version 3.0</li>
+  <li><strong>Laratrust</strong> for the authorization version 4.0</li>
+  <li><strong>laracasts generators</strong> for generate a pivot tables etc.. version:"dev-master"</li>
 </ul>
